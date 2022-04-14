@@ -12,6 +12,9 @@
             <Label Text="red" FontSize="Medium" HorizontalOptions="Center" />
             <BoxView Color="Red" WidthRequest="200" HeightRequest="200"
                      HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+            <Label Text="by Atsumi Amaya" FontSize="Micro"
+                   VerticalOptions="End"
+                   HorizontalOptions="CenterAndExpand"/>
         </StackLayout>
     </ContentPage>
     <ContentPage>
@@ -19,6 +22,9 @@
             <Label Text="green" FontSize="Medium" HorizontalOptions="Center" />
             <BoxView Color="Green" WidthRequest="200" HeightRequest="200"
                      HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+            <Label Text="by Atsumi Amaya" FontSize="Micro"
+                   VerticalOptions="End"
+                   HorizontalOptions="CenterAndExpand"/>
         </StackLayout>
     </ContentPage>
     <ContentPage>
@@ -26,6 +32,9 @@
             <Label Text="blue" FontSize="Medium" HorizontalOptions="Center" />
             <BoxView Color="Blue" WidthRequest="200" HeightRequest="200"
                      HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+            <Label Text="by Atsumi Amaya" FontSize="Micro"
+                   VerticalOptions="End"
+                   HorizontalOptions="CenterAndExpand"/>
         </StackLayout>
     </ContentPage>
     <ContentPage>

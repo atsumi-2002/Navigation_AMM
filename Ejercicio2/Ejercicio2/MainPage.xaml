@@ -10,6 +10,9 @@
         <Button x:Name="Item3" Text="CarouselPage"/>
         <Button x:Name="Item4" Text="ModalPages"/>
         <Button x:Name="Item5" Text="DisplayAlert"/>
+        <Label Text="by Atsumi Amaya" FontSize="Micro"
+                   VerticalOptions="EndAndExpand"
+                   HorizontalOptions="CenterAndExpand"/>
     </StackLayout>
 
 </ContentPage>
